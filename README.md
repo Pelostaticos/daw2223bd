@@ -29,3 +29,7 @@ A continuación, se presenta un resumen de las tareas realizadas y los principal
 ## 🏁 Conclusión
 
 Este conjunto de tareas representa el esfuerzo intensivo por completar los módulos de Bases de Datos avanzados en un corto período. El trabajo cubre desde la manipulación transaccional de datos hasta la implementación de lógica de negocio compleja dentro del propio SGBD y el manejo de estructuras de datos orientadas a objetos.
+
+<u>Profesor</u>: **Pepe Lluyot Sánchez** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
+
+Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

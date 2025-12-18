@@ -2,6 +2,8 @@
 
 * <u>Módulo</u>: Bases de Datos (DAW/DAM)
 * <u>Unidad de Trabajo</u>: UT06. Programación de bases de datos.
+* <u>Profesor</u>: **Pepe Lluyot Sánchez**
+* <u>Centro</u>: [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 * <u>Curso Académico</u>: 2022/2023 (Referencia)
 
 ## 📝 Descripción del Proyecto
