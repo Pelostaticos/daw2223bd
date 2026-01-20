@@ -2,7 +2,7 @@
 
 Este repositorio documenta las soluciones desarrolladas para las tareas del módulo de Bases de Datos del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) del curso 2022/2023. Dichas tareas corresponden con las unidades 4 a 7.
 
-![IMagen destacable del repositorio de Base de Datos](https://bitgarcia.es/wp-content/uploads/2025/12/destacable-daw2223bd.png)
+![IMagen destacable del repositorio de Base de Datos](https://bitgarcia.es/assets/destacable-daw2223bd.png)
 
 ## 📌 Introducción y Contexto
 
